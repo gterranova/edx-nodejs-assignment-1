@@ -1,5 +1,5 @@
 {
-  "name": "cvs-to-json",
+  "name": "edx-nodejs-assignment-1",
   "version": "1.0.0",
   "description": "edx Introduction to NodeJS: Assignment 1",
   "main": "index.js",

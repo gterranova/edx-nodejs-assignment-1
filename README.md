@@ -1,4 +1,4 @@
-convert-csv-to-json
+edx Introduction to NodeJS: Assignment 1
 =====
 
 This project is my solution for the 1st assignment at edX Introduction to Node.js course.
@@ -6,7 +6,7 @@ This project is my solution for the 1st assignment at edX Introduction to Node.j
 https://courses.edx.org/courses/course-v1:Microsoft+DEV283x+2T2018/course/
 
 It converts a CSV file to JSON and saves it to same directory. 
-You can provide the CSV on the command line (otherwise it defaults to the provided customer-data.json).
+You can provide the CSV on the command line (otherwise it defaults to the provided customer-data.csv).
 
 ```
 $ node . [cvs file]
