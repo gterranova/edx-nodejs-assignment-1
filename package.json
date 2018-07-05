@@ -1,0 +1,16 @@
+{
+  "name": "cvs-to-json",
+  "version": "1.0.0",
+  "description": "edx Introduction to NodeJS: Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Gianpaolo Terranova",
+  "email": "gianpaoloterranova@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
